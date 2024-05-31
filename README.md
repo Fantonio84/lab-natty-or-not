@@ -15,7 +15,7 @@ Utilizei o "ChatGPT" para criar o texto sobre IAs Generativas, estruturar o cont
 ## 🚀 Resultados
 O e-book apresenta um visão de como as IAs Genativas poderão ser uma ferramenta poderosa no mercado de trabalho.
 Confira como ficou o resultado final deste projeto
-[LINK PARA O eBook AQUI]()
+[LINK PARA O eBook AQUI](https://github.com/Fantonio84/lab-natty-or-not/blob/main/eBook.pdf)
 
 ## 💭 Reflexão (Opcional)
 Em poucos minutos sem entender muito do assunto consegui criar um eBook bem estruturado, em ingles, e sem gastar um centavo.
